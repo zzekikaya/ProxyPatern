@@ -1,0 +1,5 @@
+D:\Releted_Of_Software\ProxyPattern\ProxyPatern\ProxyPatern\bin\Debug\ProxyPatern.dll
+D:\Releted_Of_Software\ProxyPattern\ProxyPatern\ProxyPatern\bin\Debug\ProxyPatern.pdb
+D:\Releted_Of_Software\ProxyPattern\ProxyPatern\ProxyPatern\obj\Debug\ProxyPatern.csprojResolveAssemblyReference.cache
+D:\Releted_Of_Software\ProxyPattern\ProxyPatern\ProxyPatern\obj\Debug\ProxyPatern.dll
+D:\Releted_Of_Software\ProxyPattern\ProxyPatern\ProxyPatern\obj\Debug\ProxyPatern.pdb
